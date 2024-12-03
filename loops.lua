@@ -1,6 +1,6 @@
-local test = 0
-local test2 = 0
-local test3
+test = 0
+test2 = 0
+test3 = 0
 
 --while loop-
 
