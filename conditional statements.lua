@@ -1,6 +1,6 @@
 --conditional statements if, then, else, and elseif!--
-local message = 0
-local condition = 25
+message = 0
+condition = 25
 
 if condition > 0 then
     message = 1
@@ -10,8 +10,8 @@ end
 
 print(message)
 
-local me2 = 3
-local cond2 = 9
+me2 = 3
+cond2 = 9
 
 if cond2 > 3 then 
     me2 = 3
