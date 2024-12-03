@@ -10,3 +10,9 @@ https://www.lua.org/
 https://en.m.wikipedia.org/wiki/Lua_(programming_language)
 
 https://onecompiler.com/lua
+
+lua.org is a place from where you can download the lua ide and use it with vs code
+
+if you want to learn its history, wikipedia is a good option for you
+
+one compiler is the best compilers in which you can code lua, html, css, js, java, php and more coding languages
