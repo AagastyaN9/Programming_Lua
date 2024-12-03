@@ -1,4 +1,4 @@
-local test4 = 0
+test4 = 0
 
 function increaseTest4(T)
     test4 = test4 + T
